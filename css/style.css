@@ -1,0 +1,94 @@
+.big{
+    justify-content: space-between;
+    display: flex
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.4rem;
+}
+li{
+    margin-left: 25px;
+    display: inline-block;
+    list-style: none
+}
+a:hover{
+    color: blue;
+}
+.img1{
+    width: 80px;
+    margin-right: 35px;
+}
+.po{
+    margin-left: 50px;
+}
+.hj{
+    display: flex;
+    justify-content: space-between;
+
+    background-color: ghostwhite;
+}
+.ff{
+    margin-top: 50px;
+    text-align: right;
+}
+.kk{
+    background-color: blueviolet;
+    height: 70px;
+    border: solid black 3px;
+width: 100px;
+border-radius: 20px;
+font-size: 20px;
+}
+.gh{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.red:hover{
+    transform:scale(1.2,1.2)
+}
+.img3{
+    width: 50px;
+}
+.divv{
+    justify-content: space-between;
+}
+.div5{
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.kik{
+    display: flex;
+    background-color: ghostwhite;
+
+    justify-content: space-around
+    
+}
+.lk{
+    justify-content: space-around;
+    margin: 50px;
+    background-color: white;
+    border: solid white 3px;
+    padding: 20px;
+    width: 250px;
+    height: 200px;
+    margin-bottom: 100px;
+    border-radius: 30px;
+}
+.lk:hover{
+    border: solid blue 3px;
+    border-radius: 35px;
+}
+.div77{
+    justify-content: space-around;
+
+}
+.img3{
+    margin-left: 90px;
+}
+.kj{
+    margin-left: 80px;
+}
